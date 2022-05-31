@@ -1,5 +1,5 @@
 # Ender 3 Stealthburner Edition
- Voron Aesthetic/Hardware Mod for Original Ender3 V1.
+ Voron Aesthetic/Hardware Mod for Original Ender3 V1. (WIP)
 
  This is an upgrade in Hardware, Electronics, Software and aesthetic for the Ender 3. It represents a massive increase in capability for your old Ender that will allow it to keep up with much more advanced (and expensive) 3D Printers.
  This mod is designed to be extremely cheap, utilising as much of the old system as possible.
@@ -26,8 +26,15 @@
 
 This documentation is a Work In Progress and will be updated over time, however the 3D Printer is fully functional and works correctly at this point.
 
-CAD Model status: Incomplete - use at your own risk
-Printer Status: Beta.
+BOM:
+
+- E3D V6 (Cheaper to build from Spares): TBA
+- Textured PEI Magnetic bed: TBA
+- Raspberry Pi: TBA
+- TBC
+
+- CAD Model status: Incomplete - use at your own risk.
+- Printer Status: Beta.
 
 Credit for 3rd Party files used;
 
