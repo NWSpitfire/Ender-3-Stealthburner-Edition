@@ -26,7 +26,12 @@
 
 This documentation is a Work In Progress and will be updated over time, however the 3D Printer is fully functional and works correctly at this point.
 
-CAD Model status: Incomplete
-Printer Status: Release.
+CAD Model status: Incomplete - use at your own risk
+Printer Status: Beta.
 
+Credit for 3rd Party files used;
+
+Stealthburner (Missing from CAD Model) - Voron Design
+KlackEnder (Missing from CAD Model) - kevinakasam
+Creality MCU Board mount (Not used in CAD model but required - CAD Model Board mount deprecated) - DemoSTH (https://www.teamfdm.com/files/file/170-ender-3pro-switchwire/)
 
